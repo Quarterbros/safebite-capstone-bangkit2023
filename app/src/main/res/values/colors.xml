@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#2B2B2B</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red_warning">#D0342C</color>
+
+    <color name="green_stardar">#0D8065</color>
+    <color name="green_dark">#045945</color>
+    <color name="green_ascent">#E7FCF9</color>
+
+    <color name="blue_stardar">#0d5080</color>
+    <color name="blue_dark">#074069</color>
+
+    <color name="border_grey">#828282</color>
+    <color name="white_ascent">#F0F2FC</color>
+    <color name="blue_link">#2196F3</color>
+    <color name="blue_icon">#0D3380</color>
+
+</resources>

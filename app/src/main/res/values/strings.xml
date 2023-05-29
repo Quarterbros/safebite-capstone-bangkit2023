@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">SafeBite</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="email_placeholder">Insert Your Email</string>
+    <string name="login">Login</string>
+    <string name="password_placeholder">Insert Your Password</string>
+    <string name="welcome_text">Welcome to SafeBite</string>
+    <string name="new_user">New User ?</string>
+    <string name="register_here">Sign Up Here</string>
+    <string name="register_text">Sign Up New Account</string>
+    <string name="logout">Logout</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="masuk">Login</string>
+    <string name="beranda">Home</string>
+    <string name="deteksi">Scan</string>
+    <string name="history">History</string>
+    <string name="default_web_client_id">649552161746-iauik5ffqbe786h1rndu3l1faia8otfs.apps.googleusercontent.com</string>
+
+    <string name="jumlah_alergen">Alergens\n0 Types</string>
+    <string name="pref_halaln">Preference\nHalal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="data_title">
+        <item>Alergen Name</item>
+        <item>Alergen Name</item>
+        <item>Alergen Name</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/arya</item>
+        <item>@drawable/arya</item>
+        <item>@drawable/arya</item>
+    </integer-array>
+</resources>

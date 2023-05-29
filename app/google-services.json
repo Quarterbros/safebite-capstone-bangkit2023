@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649552161746",
+    "project_id": "safebitecapstone-d3dc2",
+    "storage_bucket": "safebitecapstone-d3dc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649552161746:android:7a9e8e25ea6d14f83db60b",
+        "android_client_info": {
+          "package_name": "com.example.safebitecapstone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxCUJx3r2rnkVZ-i_ToI9IAWzhN0hQ8ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
